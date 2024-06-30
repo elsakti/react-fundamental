@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Tutorial Laravel",
+        "tags": ["Web", "App"],
+        "date": "04-06-2024",
+        "isNew": true    
+    },
+    {
+        "title": "Tutorial Data Science",
+        "tags": ["AI", "Technology"],
+        "date": "05-06-2024",    
+        "isNew": false    
+
+    },
+    {
+        "title": "Tutorial React Native",
+        "tags": ["Web", "App"],
+        "date": "06-06-2024",
+        "isNew": false    
+    
+    }
+]
